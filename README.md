@@ -185,8 +185,8 @@ AI assistance is useful for exploring unfamiliar code, debugging, and accelerati
 ## Links
 
 - GitHub repository:https://github.com/shubham-coder-ship-it/orbitask-mern-assessment
-- Live frontend: Not deployed.
-- Live backend: Not deployed.
+- Live frontend: Deployed.
+- Live backend: Deployed.
 
 ## 👨‍💻 Author
 Shubham Sharma
