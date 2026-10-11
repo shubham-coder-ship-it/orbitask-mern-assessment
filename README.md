@@ -72,7 +72,7 @@ npm run dev:client           # UI on http://localhost:5173  (second terminal)
 Optional demo data (development only, refuses to run in production, **wipes the database it points at**):
 `npm run seed` → logins `admin@orbitask.dev` / `Password123` (and `sam@…`, `priya@…`).
 
-Admin setup: with `FIRST_USER_ADMIN=true`, register the first account — it becomes Admin. Everyone after that is a Member. There is no way to choose a role at registration.
+Admin setup: with `FIRST_USER_ADMIN=true (only in local running)`, register the first account — it becomes Admin. Everyone after that is a Member. There is no way to choose a role at registration.
 
 ## Testing
 
